@@ -30,4 +30,4 @@ if cap = cv2.VideoCapture('name of video file that has fire') for example cap = 
 
 
 
-that's all
+that's all!
